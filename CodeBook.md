@@ -1,3 +1,6 @@
+Getting and Cleaning Data Course Project - Coursera Course
+Name: Sarthak Mukhopadhyay
+
 Source 
 
 UCI HAR Dataset from the UCI Machine learning repository.
